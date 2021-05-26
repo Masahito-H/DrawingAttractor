@@ -2,7 +2,7 @@
 //  fractalFunction.h
 //  Sierpinski Gasket
 //
-//  Created by reziov. on 2017/12/05.
+//  Created by Masahito H. on 2017/12/05.
 //
 
 #ifndef fractalFunction_h
