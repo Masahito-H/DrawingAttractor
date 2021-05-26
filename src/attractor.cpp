@@ -2,7 +2,7 @@
 //  attractor.cpp
 //  Strange Attractor
 //
-//  Created by reziov. on 2017/12/08.
+//  Created by Masahito H. on 2017/12/08.
 //
 
 #include "attractor.h"
